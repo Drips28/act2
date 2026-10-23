@@ -8,3 +8,6 @@ Este proyecto es una práctica de repaso sobre Git y GitHub
 
 #Autor
 Diego Mondragon
+
+Version 2
+Esto es para comprobar un cambio
